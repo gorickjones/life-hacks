@@ -1,4 +1,4 @@
-# How to email.
+# How to email inside your organization or team.
 
 This is intended to support the use of email in a team setting. It benefits from the many email crimes I have committed.
 
