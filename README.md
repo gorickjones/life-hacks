@@ -7,6 +7,24 @@ Over the last twenty years, I've had the opportunity to work with a diverse rang
 
 1. [How to email inside your organization or with your team](email/how-to-email-org.md).
 
+## Change Log and Roadmap
+
+### Change Log
+
+2022-12-29: Initiated project, began email, grab bag sections.
+
+### Roadmap
+
+- [ ] Preparing for meetings
+- [ ] Working on a document with other humans
+- [ ] Working on a document with AI
+- [ ] Creating a presentation
+- [ ] Delivering a project
+- [ ] Asking for help
+
+---
+Go to:
+- [Home](README.md]
 ## About This Project
 
 This project welcomes [contributions](CONTRIBUTING.md). It is [licensed to use](LICENSE). View the [change log and roadmap](change-log-roadmap.md).
