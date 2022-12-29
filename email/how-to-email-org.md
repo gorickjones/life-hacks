@@ -60,3 +60,9 @@ Stuck and need someone else to weigh in?
 > With that in mind, do you think this is an opportunity worth pursuing? Any other considerations you think we should factor in? Any one else we should talk to before making the call?
 >
 > We have to make the go-no go decision by DAY, DATE so we can write the proposal. You thoughts will help inform that decision. please send them to us -- no matter how rough -- by end of day, DAY, DATE. 
+
+
+---
+Go To:
+- [Email Index](readme.md)
+- [Home}(../readme.md)
