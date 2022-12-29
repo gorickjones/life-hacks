@@ -1,4 +1,4 @@
-# Read Me
+# Email Index
 
 This lists the contents of the email folder.
 
