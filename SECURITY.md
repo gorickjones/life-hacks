@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Use at your own risk.
+These all worked for me.  You will have to adjust and refine to find what works best for you.
 
 
 ## Reporting an Error
