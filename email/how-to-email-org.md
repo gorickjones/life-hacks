@@ -64,5 +64,5 @@ Stuck and need someone else to weigh in?
 
 ---
 Go To:
-- [Email Index](readme.md)
+- [Email Index](email-index.md)
 - [Home](../README.md)
