@@ -5,4 +5,4 @@ This lists the contents of the email folder.
 1. [How to email in your organization or team](email/how-to-email-org.md)
 
 Go to:
-- [home](README.md)
+- [home](root/README.md)
