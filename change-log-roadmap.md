@@ -12,3 +12,7 @@
 - [ ] Creating a presentation
 - [ ] Delivering a project
 - [ ] Asking for help
+
+---
+Go to:
+- [Home](README.md]
