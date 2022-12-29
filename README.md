@@ -27,7 +27,7 @@ Go to:
 - [Home](README.md]
 ## About This Project
 
-This project welcomes [contributions](CONTRIBUTING.md). It is [licensed to use](LICENSE). View the [change log and roadmap](change-log-roadmap.md).
+This project welcomes [contributions](CONTRIBUTING.md). It is [licensed to use](LICENSE). 
 
 This project has been created by [Marnie Webb](https://crank.report/about-me) to: share what I've learned from working with interns and young professionals over the last 20 years; share the great advice I've received and the feedback I've gotten; and, save my daughter from having to listen to regular how to grow up lectures.
 
