@@ -4,4 +4,4 @@ This is notes for a series of talks I'd love to give a high school internship cl
 
 Modeled on [Phil Agre's excellent advice](https://pages.gseis.ucla.edu/faculty/agre/) for graduate students.
 
-1. How to write emails.
+1. [How to email](how-to-email.md).
