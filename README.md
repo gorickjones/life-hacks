@@ -22,9 +22,6 @@ Over the last twenty years, I've had the opportunity to work with a diverse rang
 - [ ] Delivering a project
 - [ ] Asking for help
 
----
-Go to:
-- [Home](README.md]
 ## About This Project
 
 This project welcomes [contributions](CONTRIBUTING.md). It is [licensed to use](LICENSE). 
