@@ -19,3 +19,8 @@ This is a problem we face all the time at my job.  We work with clients and comm
 **7. Now look at the list of people who would be doing you a favor.** Can they afford to do it? Like literally?  If so, ask them. If not, figure out to give them compensation for their time.  And not a Starbucks gift card. Ideally, it's something associated with the work you are doing and the work they are doing. It could be a small donation to their org, it could be something else that you have that could benefit them.  And really really if nothing comes to mind -- no related thing you can offer -- set them aside. Email is not the way to there.
 
 **8. Be prepared to send a lot of emails.** We will usually send a 25 cold emails before we start gettting responses.  The first time we get one we ask "Who else should we be talking to?" and "Would you be willing to do an introduction."  
+
+---
+Go to:
+- [email index](email-index.md)
+- [home](../README.md)
