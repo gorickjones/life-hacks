@@ -6,7 +6,7 @@ This is intended to support the use of email in a team setting. It benefits from
 
 (Where long is more than two emails, requires scrolling)
 
-It often happens, a discussion over email can benefits from the expertise of someone not on the thread and you want to add them. Here's how:
+It often happens: A discussion over email can benefit from the expertise of someone not on the thread, and you want to add them. Here's how:
 
 **1. Be clear you are adding them at the very top of your note.**
 
@@ -19,7 +19,7 @@ You can do this by writing "+Name". In my organizational email set-ups, "@Name" 
 Drop down a line, address the newcomers by name and make it easy for them to know what is most relevant to them. Write something like:
 > Name1 and Name2, We are trying to understand the reasons that the numbers are low this month. I have reattached the CSV file for your reference. In the course of the discussion, BillyBob suggested it might be because of site slow down issues. See the below discussion for more context, if you need it.
 
-*Why do this?* You are helping them by focusing on key points and making it easier to contribute to the conversation. 
+*Why do this?* You are helping them by focusing on key points and making it easier for them to contribute to the conversation. 
 
 **3. Tell them why you are adding them.**
 
