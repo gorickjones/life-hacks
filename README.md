@@ -7,6 +7,10 @@ Over the last twenty years, I've had the opportunity to work with a diverse rang
 
 1. [How to email inside your organization or with your team](email/how-to-email-org.md).
 
+## How To Get Help
+
+1. [Asking Quesions](bundle/asking-questions.md)
+
 ## Grab Bag
 
 [A list of suggestions](grabbag/grabbag-index.md) that doesn't fit anywhere else.  
