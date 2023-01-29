@@ -6,10 +6,11 @@ Over the last twenty years, I've had the opportunity to work with a diverse rang
 ## Email
 
 1. [How to email inside your organization or with your team](email/how-to-email-org.md).
+2. [How to email a stranger](email/how-to-email-stranger.md)
 
 ## How To Get Help
 
-1. [Asking Quesions](bundle/asking-questions.md)
+1. [Asking Quesions](how-to-get-help/asking-questions.md).
 
 ## Grab Bag
 
