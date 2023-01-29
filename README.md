@@ -21,6 +21,7 @@ Over the last twenty years, I've had the opportunity to work with a diverse rang
 ### Change Log
 
 2022-12-29: Initiated project, began email, grab bag sections.
+2022-01-29: Added how to ask for help section, added more email tips.
 
 ### Roadmap
 
@@ -29,7 +30,6 @@ Over the last twenty years, I've had the opportunity to work with a diverse rang
 - [ ] Working on a document with AI
 - [ ] Creating a presentation
 - [ ] Delivering a project
-- [ ] Asking for help
 
 ## About This Project
 
