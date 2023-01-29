@@ -1,4 +1,4 @@
-# Asking A Question
+# Asking Questions
 
 I still point to [How to Ask Questions the Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html). You really should read it.  Still, here's the bullet point version:
 
