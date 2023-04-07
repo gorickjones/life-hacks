@@ -12,6 +12,8 @@ Over the last twenty years, I've had the opportunity to work with a diverse rang
 
 1. [Asking Quesions](how-to-get-help/asking-questions.md).
 
+## Demonstration of Edit
+
 ## Grab Bag
 
 [A list of suggestions](grabbag/grabbag-index.md) that doesn't fit anywhere else.  
